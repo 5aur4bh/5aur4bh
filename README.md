@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @5aur4bh
-- 👀 I’m interested in Embeeded Systems, Machine Learning, and experimenting with new and differernt languages and tech
+- 👀 I’m interested in Embedded Systems, Machine Learning, and experimenting with new and differernt languages and tech
 - 🌱 I’m currently learning Golang
 - 📫 How to reach me saurabhtripathi967@gmail.com
 
